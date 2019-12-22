@@ -1,3 +1,5 @@
+## STRUCTURAL TASARIM DESENİ
+
 ## PROXY TASARIM DESENİ 
  
 Proxy modelinde, sınıf başka bir sınıfın işlevselliğini temsil eder. Bu tip tasarım deseni yapısal desen altındadır. Proxy modelinde, işlevselliğini dış dünyaya arayüzlemek için orijinal nesneye sahip nesne yaratırız. 
@@ -81,6 +83,7 @@ Durdur deneme_10mb.jpg
 . 
 Durdur deneme_10mb.jpg 
 ```
+## BEHAVORIAL TASARIM DESENİ
 ## ITERATOR TASARIM DESENİ  
 Yineleyici desen, Java ve .Net programlama ortamında çok yaygın olarak kullanılan tasarım modelidir. Bu desen, bir koleksiyon nesnesinin öğelerine, altta yatan temsilini bilmeye gerek kalmadan sıralı bir şekilde erişmek için bir yol elde etmek için kullanılır.Yineleyici pattern davranışsal pattern kategorisine girer. 
  
