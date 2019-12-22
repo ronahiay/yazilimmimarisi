@@ -83,7 +83,7 @@ Durdur deneme_10mb.jpg
 . 
 Durdur deneme_10mb.jpg 
 ```
-## BEHAVORIAL TASARIM DESENİ
+## BEHAVIORAL TASARIM DESENİ
 ## ITERATOR TASARIM DESENİ  
 Yineleyici desen, Java ve .Net programlama ortamında çok yaygın olarak kullanılan tasarım modelidir. Bu desen, bir koleksiyon nesnesinin öğelerine, altta yatan temsilini bilmeye gerek kalmadan sıralı bir şekilde erişmek için bir yol elde etmek için kullanılır.Yineleyici pattern davranışsal pattern kategorisine girer. 
  
